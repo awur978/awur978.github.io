@@ -13,10 +13,10 @@
     
     <item>
       <title>Anatomy of a High-Speed Convolution</title>
-      <link>https://sahnimanas.github.io/post/anatomy-of-a-high-performance-convolution/</link>
+      <link>https://awur978.github.io/post/anatomy-of-a-high-performance-convolution/</link>
       <pubDate>Mon, 26 Aug 2019 21:57:19 +0530</pubDate>
       
-      <guid>https://sahnimanas.github.io/post/anatomy-of-a-high-performance-convolution/</guid>
+      <guid>https://awur978.github.io/post/anatomy-of-a-high-performance-convolution/</guid>
       <description>
 
 &lt;p&gt;On my not-too-shabby laptop CPU, I can run most common CNN models in (at most) 10-100 milliseconds, with libraries like TensorFlow. In 2019, even a smartphone can run &amp;ldquo;heavy&amp;rdquo; CNN models (like ResNet) in less than half a second. So imagine my surprise when I timed my own simple implementation of a convolution layer and found that it took over &lt;em&gt;2 seconds&lt;/em&gt; for a single layer!&lt;/p&gt;
@@ -615,7 +615,7 @@ $$&lt;/p&gt;
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://sahnimanas.github.io/post/quantization-in-tflite/numberline.png&#34; /&gt;
+&lt;img src=&#34;https://awur978.github.io/post/quantization-in-tflite/numberline.png&#34; /&gt;
 
 
 &lt;/figure&gt;
@@ -671,7 +671,7 @@ conventional neural network to the quantized form, which is where TensorFlow&amp
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://sahnimanas.github.io/post/quantization-in-tflite/simple.png&#34; width=&#34;30%&#34; /&gt;
+&lt;img src=&#34;https://awur978.github.io/post/quantization-in-tflite/simple.png&#34; width=&#34;30%&#34; /&gt;
 
 
 &lt;/figure&gt;
@@ -680,7 +680,7 @@ conventional neural network to the quantized form, which is where TensorFlow&amp
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://sahnimanas.github.io/post/quantization-in-tflite/simple_quantized.png&#34; width=&#34;30%&#34; /&gt;
+&lt;img src=&#34;https://awur978.github.io/post/quantization-in-tflite/simple_quantized.png&#34; width=&#34;30%&#34; /&gt;
 
 
 &lt;/figure&gt;&lt;/p&gt;
@@ -696,7 +696,7 @@ conventional neural network to the quantized form, which is where TensorFlow&amp
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://sahnimanas.github.io/post/quantization-in-tflite/accuracy.png&#34; width=&#34;60%&#34; /&gt;
+&lt;img src=&#34;https://awur978.github.io/post/quantization-in-tflite/accuracy.png&#34; width=&#34;60%&#34; /&gt;
 
 
 
